@@ -10,11 +10,11 @@ to run them from terminal.
 
 ---
 
-![](https://makedown.surge.sh/cast.mp4)
+![](./docs/cast.mp4)
 
 ---
 
-![](https://makedown.surge.sh/cast.gif)
+![](./docs/cast.gif)
 
 ---
 
